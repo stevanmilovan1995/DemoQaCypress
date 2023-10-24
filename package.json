@@ -1,0 +1,14 @@
+{
+  "name": "qase",
+  "version": "1.0.0",
+  "description": "Qase Site Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "author": "Stevan Milv\bp\b\b\b\b0000\b\b\b\b\b\b\u0001",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.2"
+  }
+}
